@@ -1,1 +1,2 @@
-# springboot-reservation-api
+# Spring Boot + AWS aurora RDS integration
+
